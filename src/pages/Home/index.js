@@ -7,7 +7,7 @@ import { useNavigation } from '@react-navigation/native';
 import { CartContext } from '../../contexts/CartContext'
 
 export default function Cart() {
-  const {cart, addItemCard} = useContext(CartContext)
+  const {cart, addItemCart} = useContext(CartContext)
 
   const navigation = useNavigation();
   const [products, setProducts] = useState([
@@ -39,7 +39,7 @@ export default function Cart() {
   ])
 
   function handleAddCart(item){
-    addItemCard(item)
+    addItemCart(item)
   }
 
   return (
