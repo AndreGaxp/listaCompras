@@ -29,3 +29,21 @@ Aplicativo estilizado com StyleSheet para obter uma aparencia agradável
 
 
 <h1>🖼️ Interface</h1>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <p><b>Tela Lista de Produtos</b></p>
+        <img src="https://github.com/user-attachments/assets/823f11a9-bfd9-4ba3-a20e-fde003889636" alt="Lista de Produtos" width="250">
+      </td>
+      <td align="center">
+        <p><b>Tela Adição de produtos</b></p>
+        <img src="https://github.com/user-attachments/assets/889dc970-9ad9-4df3-adda-b397d83a8e06" alt="Tela Adição" width="250">
+      </td>
+      <td align="center">
+        <p><b>Carrinho</b></p>
+        <img src="https://github.com/user-attachments/assets/80d58923-1201-4343-909d-cb23c62631aa" alt="Carrinho" width="250">
+      </td>
+    </tr>
+  </table>
+</div>
