@@ -18,6 +18,7 @@ export default function CardItem({ data, addAmount, removeAmount }) {
     }
 
     setAmount(item => item - 1)
+    
   }
   
   return (
